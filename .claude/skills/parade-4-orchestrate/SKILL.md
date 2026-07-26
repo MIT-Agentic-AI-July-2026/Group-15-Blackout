@@ -35,7 +35,7 @@ computer: the story lives here now.
 
 Build the pair: a researcher that reads the Breeze and the graph, a synthesizer that writes the brief, handing off over the AirMail bus. The synthesizer gets no research tools on purpose.
 
-> Walkthrough: Click copy and paste into a NEW Project or managed agent (call it Researcher). Then create a second one called Synthesizer with ONE connector only: AirMail. Give the Synthesizer instructions to read the bus channel handoff:comms-social and write a one-page brief from whatever it finds there. Run the Researcher first, then the Synthesizer. The Synthesizer knowing nothing it was not handed is the point: that is what a clean handoff looks like.
+> Walkthrough: Create two new agents at https://platform.claude.com/workspaces/default/agents (the same place you built your first). Click copy and paste this into the first, called Researcher. Then create the second, called Synthesizer, with ONE tool only: AirMail. Give the Synthesizer instructions to read the bus channel handoff:comms-social and write a one-page brief from whatever it finds there. Run the Researcher first, then the Synthesizer. The Synthesizer knowing nothing it was not handed is the point: that is what a clean handoff looks like.
 
 ### Step 4.2
 

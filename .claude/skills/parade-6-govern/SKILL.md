@@ -47,7 +47,7 @@ Review granted versus exercised power in the telemetry. The gap between what you
 
 Trim every agent's access to what its Agent Role Definition actually justifies. If you cannot say why it has a tool, it loses the tool.
 
-> Walkthrough: Click copy and paste. Your agent will list every tool it can reach and justify each against its Agent Role Definition. Anything it cannot justify in one sentence: remove that connector from the Project or managed agent, or add the missing sentence to the ARD. If you cannot say why it has a tool, it loses the tool.
+> Walkthrough: Click copy and paste. Your agent will list every tool it can reach and justify each against its Agent Role Definition. Anything it cannot justify in one sentence: remove that tool from the managed agent (its tool list lives at https://platform.claude.com/workspaces/default/agents), or add the missing sentence to the ARD. If you cannot say why it has a tool, it loses the tool.
 
 ### Step 6.4
 

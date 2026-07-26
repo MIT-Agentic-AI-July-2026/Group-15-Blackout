@@ -87,19 +87,19 @@ Fill in the Agent Role Definition. All seven fields. Nobody writes instructions 
 
 Compare your ARD with your department's starter spec (open it below: it includes a ready-to-paste instructions block and the exact connectors to add), then write your own instructions. Short enough to read aloud in a minute.
 
-> Walkthrough: Open your starter spec. It covers both ways of building in Claude, and you pick: using a Claude Project, create the Project, add the listed connectors, and paste the instructions block; using Claude managed agents, paste the spec's ready-made Quick Start block (it names the MCP servers to connect), then paste the instructions block. Either way you have a working agent in about three minutes. Now compare its guardrails against your ARD: where your sheet is stricter, edit the pasted instructions to match. Your ARD wins. The prompting patterns cheat sheet in the packet shows the sentence shapes that work if you want to write your own from scratch.
+> Walkthrough: Open your starter spec and read its instructions block: that is a professionally written version of what you are about to build, and in two steps you will paste your own into a Claude Managed Agent. Compare its guardrails against your ARD line by line: where your sheet is stricter, your ARD wins; where the spec has a rule you never thought of, steal it knowingly. The prompting patterns cheat sheet in the packet shows the sentence shapes that work if you want to write your own from scratch.
 
 ### Step 2.3
 
 Initialize your repository. Open claude.ai/code, click New Session, choose your group's repository from the drop-down list, and paste the initialization prompt. It pulls the Parade Week starter into your repository and wires in your group ID.
 
-> Walkthrough: One-time setup, about two minutes. Open claude.ai/code and click New Session, then choose your group's repository from the drop-down list (in a facilitated session it is already there; ask your instructor which one is yours). Paste the initialization prompt. Claude pulls the Parade Week starter into the repository, reads its CLAUDE.md, and asks for your group or session ID with an interactive question: answer with your group ID from your group's spreadsheet or table card, or say you do not have one and it will mint a random one. It then replaces YOUR_GROUP_ID everywhere, which points every connector and script at your world. Building in claude.ai chat instead of Claude Code? Skip this step; your Project or managed agent needs no repository.
+> Walkthrough: One-time setup, about two minutes. Open claude.ai/code and click New Session, then choose your group's repository from the drop-down list (in a facilitated session it is already there; ask your instructor which one is yours). Paste the initialization prompt. Claude pulls the Parade Week starter into the repository, reads its CLAUDE.md, and asks for your group or session ID with an interactive question: answer with your group ID from your group's spreadsheet or table card, or say you do not have one and it will mint a random one. It then replaces YOUR_GROUP_ID everywhere, which points every connector and script at your world.
 
 ### Step 2.4
 
-Build the agent. In claude.ai, step 2.2 built it (your Project or managed agent is the agent: check this off). In Claude Code, work in the repository you just initialized and paste the build prompt.
+Build the agent in Claude Code: work in the repository you initialized in the previous step and paste the build prompt, answering the blanks from your ARD.
 
-> Walkthrough: Three routes, pick yours. Facilitated session: the starter folder is already on your machine and your systems are connected; open a terminal in the folder, run claude, and paste the build prompt. Claude Code on your own: get the starter repository from your program prerequisites, connect your systems per its README, then paste the build prompt and answer the blanks from your ARD. claude.ai: your Project or managed agent from the previous step already IS the agent, so check this step off and move on. Either way the test is the same: the agent lists its tools and pulls real records before you trust it with anything.
+> Walkthrough: Facilitated session: the starter folder is already on your machine and your systems are connected; open a terminal in the folder, run claude, and paste the build prompt. On your own: work in the repository you initialized in the previous step, connect your systems per its README, then paste the build prompt and answer the blanks from your ARD. The test before you trust it with anything: the agent lists its tools and pulls real records.
 
 ### Step 2.5
 
