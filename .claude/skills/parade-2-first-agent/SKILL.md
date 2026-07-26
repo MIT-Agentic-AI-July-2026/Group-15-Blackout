@@ -87,7 +87,7 @@ Fill in the Agent Role Definition. All seven fields. Nobody writes instructions 
 
 Compare your ARD with your department's starter spec (open it below: it includes a ready-to-paste instructions block and the exact connectors to add), then write your own instructions. Short enough to read aloud in a minute.
 
-> Walkthrough: Open your starter spec and read its instructions block: that is a professionally written version of what you are about to build, and in two steps you will paste your own into a Claude Managed Agent. Compare its guardrails against your ARD line by line: where your sheet is stricter, your ARD wins; where the spec has a rule you never thought of, steal it knowingly. The prompting patterns cheat sheet in the packet shows the sentence shapes that work if you want to write your own from scratch.
+> Walkthrough: Open your starter spec and read its instructions block: that is a professionally written version of what you are about to build, and in two steps you will build your own from it, on whichever path you choose. Compare its guardrails against your ARD line by line: where your sheet is stricter, your ARD wins; where the spec has a rule you never thought of, steal it knowingly. The prompting patterns cheat sheet in the packet shows the sentence shapes that work if you want to write your own from scratch.
 
 ### Step 2.3
 
@@ -117,13 +117,13 @@ Run the probe pack (open it below). Your agent will fail at least once. Log ever
 
 Read the trace before you fix anything. Your Field Guide logbook (in Your company, right now, above) and the starter repo's observability folder both recorded exactly what your agent did during the probes: which tools fired, in what order, with what result. Diagnose from evidence, not memory.
 
-> Walkthrough: Observability is the difference between managing agents and hoping. Two places recorded the probes: the Field Guide logbook above (every MCP tool call your session has made, timestamped, newest first) and, if you built in the starter repo, its observability folder (the per-run trace, the cost ledger, the escalation queue). Open both. For each probe failure, find the exact moment it went wrong in the trace: did the agent call the wrong tool, feed a tool the wrong input, or draw the wrong conclusion from a correct answer? Those are three different fixes, and the trace tells you which one you owe. This is the same skill the governance day runs on; learn it while the stakes are three fake probes.
+> Walkthrough: Two places recorded the probes: the Field Guide logbook above (every MCP call your session made, timestamped, newest first) and your repository's observability folder (the per-run trace, the cost ledger, the escalation queue). Open both. For each probe failure, find the exact moment it went wrong in the trace: did the agent call the wrong tool, feed a tool the wrong input, or draw the wrong conclusion from a correct answer? Those are three different fixes, and the trace tells you which one you owe. This is the same skill the governance day runs on; learn it while the stakes are three fake probes.
 
 ### Step 2.8
 
 Harden with boundaries and escalation rules, not longer wish lists. Re-run the probes and record the delta.
 
-> Walkthrough: Open your agent's instructions (the Project instructions, or the managed agent's instructions) and add one sentence per failure: a boundary with a number in it (refunds above $100 escalate), a never-rule (never state a date a tool did not confirm), a named escalation (angry plus high-value goes to Priya). The guardrail worksheet has the patterns. Then re-run the same probes, word for word, and write down what changed. Fail, then pass, because you changed the design: that is the whole discipline.
+> Walkthrough: Open CLAUDE.md in your repository (it IS your agent's instructions) and add one sentence per failure. A boundary with a number in it (refunds above $100 escalate), a never-rule (never state a date a tool did not confirm), a named escalation (angry plus high-value goes to Priya). The guardrail worksheet has the patterns. Then re-run the same probes, word for word, and write down what changed. Fail, then pass, because you changed the design: that is the whole discipline.
 
 ### Step 2.9
 
