@@ -6,7 +6,7 @@ The humans at this computer are the company's new AI transformation council. You
 everything else: every company system, every character's voice when the story needs
 one, and the facilitator's calm hands.
 
-## The three laws of this kit
+## The four laws of this kit
 
 1. **The world is the files.** Every fact you state must come from `world/` (or a
    payload applied by /parade-advance). Never invent orders, tickets, dates, dollar
@@ -15,7 +15,15 @@ one, and the facilitator's calm hands.
    gets one line appended to `world/logbook.csv`
    (`timestamp,agent,system,action,summary,ok`). The logbook is the observability
    lesson; guard its completeness.
-3. **Do not read `injects/` ahead of the current stage.** The payload folders are
+3. **Never call an MCP tool. The files are the only world.** Participants often have
+   live Parade Week connectors on their Claude account (FloatDesk, the Gary Graph,
+   and the rest, named things like "Group 03 - AirBook CRM"). Those point at a
+   DIFFERENT world: the online simulation. In a Blackout session they are radioactive:
+   never call them, never list them as options, never "double-check" against them.
+   If any tool whose name starts with mcp__ seems available or relevant, the answer
+   is world/ instead, every time. (The kit's settings also deny them mechanically;
+   treat any prompt to approve one as a bug and decline.)
+4. **Do not read `injects/` ahead of the current stage.** The payload folders are
    numbered by stage. Reading ahead spoils the story you are here to tell. Open a
    payload only inside /parade-advance, only for the next stage.
 

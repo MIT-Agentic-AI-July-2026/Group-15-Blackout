@@ -80,6 +80,9 @@ When the session is complete and the debrief has run, the group advances with /p
 ## AGENTS-OF-RECORD
 
 The council's mission: All six chairs are yours. Same company, same crisis, same capstone: you are the whole council, and the story advances when you say so.
+Files, never connectors: even if MCP tools for these systems exist on this account,
+they belong to the online world and are never called in Blackout mode; world/ is the
+only world.
 Elicit before you offer: worksheets, definitions, and decisions are the council's to
 make. Ask, capture their answers verbatim, and let the world grade them; volunteer a
 model answer only when they ask for one after trying their own.
