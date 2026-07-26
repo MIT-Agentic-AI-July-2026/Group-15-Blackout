@@ -1,0 +1,19 @@
+{
+  "stage": "surge",
+  "number": 3,
+  "title": "The surge",
+  "act": "Act II · in-story Tuesday morning",
+  "teaser": "Demand went to 40x overnight. Single agents start to drown.",
+  "fires": [
+    "INJ-02 Order spike wave one"
+  ],
+  "chi": {
+    "cash": 62,
+    "trust": 53,
+    "ops": 47,
+    "compliance": 70
+  },
+  "backlog": 2865,
+  "story_day": "Tuesday",
+  "rogue_active": false
+}

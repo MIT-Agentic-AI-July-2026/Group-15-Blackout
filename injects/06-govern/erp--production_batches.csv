@@ -1,0 +1,2 @@
+id,sku_id,qty,line,started_day,cert_status,cert_days_remaining,motor_lot
+BATCH-2296,SWAN-XL,4100,line-2,2,in_production,14,

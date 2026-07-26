@@ -1,0 +1,17 @@
+{
+  "stage": "govern",
+  "number": 6,
+  "title": "Govern",
+  "act": "Act III · in-story Thursday morning",
+  "teaser": "The risk register, the reveal, and the controls you will wish you had installed sooner.",
+  "fires": [],
+  "chi": {
+    "cash": 58,
+    "trust": 57,
+    "ops": 48,
+    "compliance": 72
+  },
+  "backlog": 874,
+  "story_day": "Thursday",
+  "rogue_active": false
+}

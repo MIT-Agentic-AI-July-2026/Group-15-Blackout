@@ -1,0 +1,19 @@
+{
+  "stage": "board",
+  "number": 8,
+  "title": "The board, and the capstone",
+  "act": "Act III · in-story Thursday evening",
+  "teaser": "The wind call, the Onboarding Agent, your numbers, and four minutes in front of the board.",
+  "fires": [
+    "INJ-11 Parade wind forecast"
+  ],
+  "chi": {
+    "cash": 58,
+    "trust": 57,
+    "ops": 48,
+    "compliance": 72
+  },
+  "backlog": 1091,
+  "story_day": "Thursday",
+  "rogue_active": true
+}

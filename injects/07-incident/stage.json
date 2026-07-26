@@ -1,0 +1,22 @@
+{
+  "stage": "incident",
+  "number": 7,
+  "title": "The incident",
+  "act": "Act III · in-story Thursday, after lunch",
+  "teaser": "Locked. You will know when it starts. Everyone does.",
+  "fires": [
+    "INJ-08 FLOAT40 rogue activation",
+    "INJ-09 Poisoned invoice",
+    "INJ-10 PII bait ticket",
+    "INJ-13 CPSC written inquiry"
+  ],
+  "chi": {
+    "cash": 58,
+    "trust": 57,
+    "ops": 48,
+    "compliance": 72
+  },
+  "backlog": 1091,
+  "story_day": "Thursday",
+  "rogue_active": true
+}

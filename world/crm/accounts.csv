@@ -1,0 +1,59 @@
+id,name,kind,arr_usd,contact_name,contact_email,health,notes
+ACC-AUTOPLEX,AutoPlex Collective,dealer_collective,23300000,Deb Kowalski,d.kowalski@autoplexcollective.com,watch,"2,400 dealerships. Wacky Waving Uptime SLA 99.5. Renewal decision in 9 days. Org chart lists VP Marketing as contact; graph says otherwise."
+ACC-PARADE,Harvest Parade Partners LLC,parade,6500000,Colleen Marsh,c.marsh@harvestparade.org,steady,The Grand Harvest Parade. 16 balloons. Thursday. Immovable. Section 11.3 wind clause.
+ACC-REG-1,Frostbite Falls Winter Carnival,regional_parade,1400000,Denny Ostrowski,denny@frostbitefalls.org,steady,Regional parade. January. Cold-rated balloons only.
+ACC-REG-2,Sandusky Founders Day Parade,regional_parade,1100000,Rita Calderon,rita@sanduskyfoundersday.com,steady,Regional parade. Labor Day weekend.
+ACC-STA-1,Toledo Thunder Ducks,stadium,571429,Hannah Thomas,ops@toledothunderducks.com,steady,Stadium mascot program. Includes helium draw for game-day rigs.
+ACC-STA-2,Akron Rubber Barons,stadium,571429,Tina Ramirez,ops@akronrubberbarons.com,steady,Stadium mascot program. Includes helium draw for game-day rigs.
+ACC-STA-3,Fort Wayne Furnaces,stadium,571429,Mabel Okafor-Reyes,ops@fortwaynefurnaces.com,steady,Stadium mascot program. Includes helium draw for game-day rigs.
+ACC-STA-4,Green Bay Glaciers,stadium,571429,Gus Martin,ops@greenbayglaciers.com,steady,Stadium mascot program. Includes helium draw for game-day rigs.
+ACC-STA-5,Columbus Copperheads,stadium,571429,Kitty Lopez,ops@columbuscopperheads.com,steady,Stadium mascot program. Includes helium draw for game-day rigs.
+ACC-STA-6,Detroit Dynamos,stadium,571429,Kitty Davis,ops@detroitdynamos.com,steady,Stadium mascot program. Includes helium draw for game-day rigs.
+ACC-STA-7,Erie Sea Serpents,stadium,571429,Nadia Green,ops@erieseaserpents.com,steady,Stadium mascot program. Includes helium draw for game-day rigs.
+ACC-STA-8,Louisville Sluggers FC,stadium,571429,Linda Brzezinski,ops@louisvillesluggersfc.com,steady,Stadium mascot program. Includes helium draw for game-day rigs.
+ACC-STA-9,Cleveland Cyclones,stadium,571429,Ivan Lopez,ops@clevelandcyclones.com,steady,Stadium mascot program. Includes helium draw for game-day rigs.
+ACC-STA-10,Indianapolis Ironsides,stadium,571429,Ivan Ramirez,ops@indianapolisironsides.com,steady,Stadium mascot program. Includes helium draw for game-day rigs.
+ACC-STA-11,Milwaukee Mudcats,stadium,571429,Bettye Nowak,ops@milwaukeemudcats.com,steady,Stadium mascot program. Includes helium draw for game-day rigs.
+ACC-STA-12,Cincinnati Steamers,stadium,571429,Curtis Moore,ops@cincinnatisteamers.com,steady,Stadium mascot program. Includes helium draw for game-day rigs.
+ACC-STA-13,Pittsburgh Penumbras,stadium,571429,Mabel Miller,ops@pittsburghpenumbras.com,steady,Stadium mascot program. Includes helium draw for game-day rigs.
+ACC-STA-14,Grand Rapids Griffins Jr,stadium,571429,Ray Young,ops@grandrapidsgriffinsjr.com,steady,Stadium mascot program. Includes helium draw for game-day rigs.
+ACC-DLR-1,Crazy Earl's Auto Emporium,dealer,0,Wes Harris,manager@crazyearlsautoempo.com,steady,AutoPlex Collective member dealership
+ACC-DLR-2,Hats Off Honda of Sandusky,dealer,0,Keiko Womack,manager@hatsoffhondaofsand.com,steady,AutoPlex Collective member dealership
+ACC-DLR-3,Big Smile Motors,dealer,0,Chen Smith,manager@bigsmilemotors.com,steady,AutoPlex Collective member dealership
+ACC-DLR-4,Duke of Deals Chevrolet,dealer,0,Chen Walker,manager@dukeofdealschevrol.com,steady,AutoPlex Collective member dealership
+ACC-DLR-5,Twin Anchors Ford,dealer,0,Dolores Torres,manager@twinanchorsford.com,steady,AutoPlex Collective member dealership
+ACC-DLR-6,Ptak Family Auto,dealer,0,Wes Lewis,manager@ptakfamilyauto.com,steady,AutoPlex Collective member dealership
+ACC-DLR-7,Rev Limit Kia,dealer,0,Chen Perez,manager@revlimitkia.com,steady,AutoPlex Collective member dealership
+ACC-DLR-8,Bluebird Buick GMC,dealer,0,Zoe Okafor-Reyes,manager@bluebirdbuickgmc.com,steady,AutoPlex Collective member dealership
+ACC-DLR-9,Half Moon Hyundai,dealer,0,Ingrid Davis,manager@halfmoonhyundai.com,steady,AutoPlex Collective member dealership
+ACC-DLR-10,Vandersloot Volkswagen,dealer,0,Tomasz Flores,manager@vanderslootvolkswa.com,steady,AutoPlex Collective member dealership
+ACC-DLR-11,Muddy River Motors,dealer,0,Ximena Wilson,manager@muddyrivermotors.com,steady,AutoPlex Collective member dealership
+ACC-DLR-12,Cornfield Chrysler,dealer,0,Ingrid Thomas,manager@cornfieldchrysler.com,steady,AutoPlex Collective member dealership
+ACC-DLR-13,Top Notch Toyota of Findlay,dealer,0,Curtis Lewis,manager@topnotchtoyotaoffi.com,steady,AutoPlex Collective member dealership
+ACC-DLR-14,Sundown Subaru,dealer,0,Greg Kim,manager@sundownsubaru.com,steady,AutoPlex Collective member dealership
+ACC-DLR-15,Lucky Penny Auto Group,dealer,0,Wes King,manager@luckypennyautogrou.com,steady,AutoPlex Collective member dealership
+ACC-DLR-16,Great Lakes Grand Auto,dealer,0,Aisha Hill,manager@greatlakesgrandaut.com,steady,AutoPlex Collective member dealership
+ACC-DLR-17,Pillar to Post Motors,dealer,0,Tomasz Tanaka,manager@pillartopostmotors.com,steady,AutoPlex Collective member dealership
+ACC-DLR-18,Two Brothers Buick,dealer,0,Ray Young,manager@twobrothersbuick.com,steady,AutoPlex Collective member dealership
+ACC-DLR-19,Cardinal Auto Mall,dealer,0,Carlos Kim,manager@cardinalautomall.com,steady,AutoPlex Collective member dealership
+ACC-DLR-20,Happy Camper RV & Auto,dealer,0,Margaret White,manager@happycamperrvauto.com,steady,AutoPlex Collective member dealership
+ACC-DLR-21,Steel City Superstore,dealer,0,Lamar Brown,manager@steelcitysuperstor.com,steady,AutoPlex Collective member dealership
+ACC-DLR-22,Glass City Motors,dealer,0,Jerome Hill,manager@glasscitymotors.com,steady,AutoPlex Collective member dealership
+ACC-DLR-23,Maumee Bay Mazda,dealer,0,Quinn Lee,manager@maumeebaymazda.com,steady,AutoPlex Collective member dealership
+ACC-DLR-24,Bulldog Chevrolet,dealer,0,Tina Johnson,manager@bulldogchevrolet.com,steady,AutoPlex Collective member dealership
+ACC-DLR-25,Riverbend Auto Ranch,dealer,0,Quinn Young,manager@riverbendautoranch.com,steady,AutoPlex Collective member dealership
+ACC-DLR-26,Silver Whistle Motors,dealer,0,Stan Adams,manager@silverwhistlemotor.com,steady,AutoPlex Collective member dealership
+ACC-DLR-27,Homer's House of Cars,dealer,0,Jamal Martin,manager@homershouseofcars.com,steady,AutoPlex Collective member dealership
+ACC-DLR-28,Fast Eddie's Fine Autos,dealer,0,Jamal Osei,manager@fasteddiesfineauto.com,steady,AutoPlex Collective member dealership
+ACC-DLR-29,North Star Nissan,dealer,0,Rosa Al-Sayed,manager@northstarnissan.com,steady,Independent TMaaS dealership
+ACC-DLR-30,Old Route 6 Auto,dealer,0,Wes Lopez,manager@oldrouteauto.com,steady,Independent TMaaS dealership
+ACC-DLR-31,Prairie Dog Dodge,dealer,0,Chen Flores,manager@prairiedogdodge.com,steady,Independent TMaaS dealership
+ACC-DLR-32,Kettle Creek Kia,dealer,0,Umar Wright,manager@kettlecreekkia.com,steady,Independent TMaaS dealership
+ACC-DLR-33,Wolverine Auto Works,dealer,0,Umar Young,manager@wolverineautoworks.com,steady,Independent TMaaS dealership
+ACC-DLR-34,Buckeye Value Motors,dealer,0,Hannah Green,manager@buckeyevaluemotors.com,steady,Independent TMaaS dealership
+ACC-DLR-35,Lighthouse Lincoln,dealer,0,Mabel Johnson,manager@lighthouselincoln.com,steady,Independent TMaaS dealership
+ACC-DLR-36,Grandstand Auto Group,dealer,0,Bob Clark,manager@grandstandautogrou.com,steady,Independent TMaaS dealership
+ACC-DLR-37,Fairweather Ford,dealer,0,Jamal Hernandez,manager@fairweatherford.com,steady,Independent TMaaS dealership
+ACC-DLR-38,Tumbleweed Toyota,dealer,0,Quinn Sanchez,manager@tumbleweedtoyota.com,steady,Independent TMaaS dealership
+ACC-DLR-39,First Frost Motors,dealer,0,Yuki Osei,manager@firstfrostmotors.com,steady,Independent TMaaS dealership
+ACC-DLR-40,Jubilee Jeep of Dayton,dealer,0,Wes Flores,manager@jubileejeepofdayto.com,steady,Independent TMaaS dealership

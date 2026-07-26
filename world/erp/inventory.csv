@@ -1,0 +1,13 @@
+sku_id,on_hand,reserved,location
+SWAN-XL,6800,400,toledo-warehouse
+KRAK-01,2100,120,toledo-warehouse
+PIZZ-XL,4400,200,toledo-warehouse
+DONUT-2,3100,150,toledo-warehouse
+UNIC-01,2600,90,toledo-warehouse
+TUBE-STD,240,30,columbus-dc
+TUBE-DLX,95,20,columbus-dc
+BNC-CAS,34,6,toledo-warehouse
+BNC-CRP,12,3,toledo-warehouse
+BAL-CUS,2,2,toledo-plant
+MAS-STD,6,1,columbus-dc
+KIT-HEL,9200,300,columbus-dc

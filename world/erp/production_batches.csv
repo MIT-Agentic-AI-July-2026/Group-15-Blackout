@@ -1,0 +1,13 @@
+id,sku_id,qty,line,started_day,cert_status,cert_days_remaining,motor_lot
+BATCH-2291,SWAN-XL,1200,line-2,-21,certified,0,
+BATCH-2292,SWAN-XL,1200,line-2,-14,certified,0,
+BATCH-2293,SWAN-XL,1200,line-2,-9,in_cert,5,
+BATCH-2294,SWAN-XL,1400,line-2,-4,in_cert,10,
+BATCH-2295,SWAN-XL,1400,line-2,0,in_production,14,
+BATCH-2281,KRAK-01,600,line-2,-12,in_cert,2,
+BATCH-2270,TUBE-DLX,300,line-1,-18,certified,0,4482
+BATCH-2271,TUBE-STD,400,line-1,-6,in_cert,8,4482
+BATCH-2251,BAL-CUS,2,line-3,-60,certified,0,
+BATCH-2252,BAL-CUS,1,line-3,-35,certified,0,
+BATCH-2260,KIT-HEL,4000,line-1,-10,in_cert,4,
+BATCH-2255,BNC-CAS,20,line-2,-30,certified,0,

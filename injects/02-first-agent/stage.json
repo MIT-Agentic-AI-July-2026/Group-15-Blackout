@@ -1,0 +1,20 @@
+{
+  "stage": "first-agent",
+  "number": 2,
+  "title": "Build your first agent",
+  "act": "Act I · in-story Monday afternoon",
+  "teaser": "Design before build. Then break it on purpose and harden it.",
+  "fires": [
+    "INJ-14 Gary farewell invite with clue",
+    "INJ-01 Solara pool party post"
+  ],
+  "chi": {
+    "cash": 62,
+    "trust": 58,
+    "ops": 55,
+    "compliance": 70
+  },
+  "backlog": 371,
+  "story_day": "Monday",
+  "rogue_active": false
+}

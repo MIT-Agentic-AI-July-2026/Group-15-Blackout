@@ -1,0 +1,13 @@
+id,day,source,cf_delta,balance_cf,note
+1,-75,Lakeshore Cryogenics,350000,350000,Monthly allocation
+2,-70,Stadium ops,-42000,308000,"Game-day draws, 14 programs"
+3,-62,B2C kits,-58000,250000,Party Helium Kit fills
+4,-55,Parade prep,-110000,140000,"Test inflation cycle 1, balloons 1 to 6"
+5,-45,Lakeshore Cryogenics,350000,490000,Monthly allocation
+6,-40,Stadium ops,-41000,449000,Game-day draws
+7,-33,B2C kits,-61000,388000,Party Helium Kit fills
+8,-25,Parade prep,-164000,224000,"Test inflation cycle 2, balloons 7 to 12, plus leak retest on the corn"
+9,-15,Lakeshore Cryogenics,350000,574000,Monthly allocation
+10,-10,Stadium ops,-38000,536000,Game-day draws
+11,-6,B2C kits,-57000,479000,Party Helium Kit fills
+12,-2,Parade prep,-297000,182000,"Full dress inflation, balloons 13 to 16, event reserve staged"

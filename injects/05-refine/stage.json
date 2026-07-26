@@ -1,0 +1,20 @@
+{
+  "stage": "refine",
+  "number": 5,
+  "title": "Refine under fire",
+  "act": "Act II · in-story Tuesday afternoon",
+  "teaser": "Evals, red teams, coaching, and standing orders for the night shift.",
+  "fires": [
+    "INJ-06 Sharp Objects letter",
+    "INJ-07 Press inquiry"
+  ],
+  "chi": {
+    "cash": 62,
+    "trust": 53,
+    "ops": 39,
+    "compliance": 70
+  },
+  "backlog": 2866,
+  "story_day": "Tuesday",
+  "rogue_active": false
+}

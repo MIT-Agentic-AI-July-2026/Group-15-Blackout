@@ -1,0 +1,13 @@
+id,name,category,price_usd,margin_pct
+SWAN-XL,The Colossal Swan,float,89,55
+KRAK-01,The Lazy Kraken,float,129,52
+PIZZ-XL,Pizza Slice XL,float,49,58
+DONUT-2,Double Donut,float,59,54
+UNIC-01,Sir Reginald Unicorn,float,79,53
+TUBE-STD,Standard Wacky Tube Man,tube_man,1150,42
+TUBE-DLX,Deluxe Flailing Tube Man,tube_man,1890,44
+BNC-CAS,Castle Classic Bounce House,bounce,4200,38
+BNC-CRP,Corporate Retreat Edition Bounce House,bounce,6900,41
+BAL-CUS,Custom Parade Balloon,parade,240000,22
+MAS-STD,Stadium Mascot System,mascot,38000,35
+KIT-HEL,Party Helium Kit,helium_kit,34,47

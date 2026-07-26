@@ -1,0 +1,22 @@
+{
+  "stage": "orchestrate",
+  "number": 4,
+  "title": "Orchestrate",
+  "act": "Act II · in-story Tuesday midday",
+  "teaser": "Agents that talk to each other, and a scarcity problem with no free lunch.",
+  "fires": [
+    "INJ-03 Lakeshore force majeure notice",
+    "INJ-04 AutoPlex uptime warning",
+    "INJ-05 Motor defect field report",
+    "INJ-12 Levit8 troll press release"
+  ],
+  "chi": {
+    "cash": 62,
+    "trust": 53,
+    "ops": 39,
+    "compliance": 70
+  },
+  "backlog": 2866,
+  "story_day": "Tuesday",
+  "rogue_active": false
+}
