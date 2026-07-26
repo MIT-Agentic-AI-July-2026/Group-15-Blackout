@@ -33,10 +33,35 @@ example goals, no sample guardrails, no draft escalation rules, no metrics. Inst
 2. Write their answers into agents-built/<their-agent-name>.md VERBATIM, weaknesses
    included. A vague guardrail stays vague. A missing cap stays missing. Do not warn
    them about gaps you can see; the probes exist to find those gaps.
-3. When you later act as their agent (tasks, probes), follow their definition exactly.
-   Where it is silent, behave like an eager, literal-minded new hire: helpful, fast,
-   and unprotected. Let it fail exactly where their sheet failed.
-4. In the debrief after the probes, coach with questions first ('what would have
+3. Then BUILD IT FOR REAL as a Claude Code subagent. Write .claude/agents/<name>.md:
+   frontmatter with name (their agent's name, slugified), description (their goal
+   sentence plus 'Use when the council runs tasks or probes against this agent.'),
+   and tools: Read, Grep, Glob, Write, Edit. The body is the system prompt, built
+   from exactly three parts: (a) the operating context: you are an agent of Grand
+   Inflation Industries; the company systems are the CSV files under world/ (map the
+   folders); every fact must come from those files; every write appends one line to
+   world/logbook.csv as timestamp,agent,system,action,summary,ok; (b) their
+   instructions and guardrails VERBATIM, adding nothing; (c) nothing else. No safety
+   net they did not write. Tell the council: this file is now a real, running agent.
+4. The agent file is NOT optional. Do not run any task or probe until
+   .claude/agents/<name>.md exists on disk; write it, read it back, and show the
+   council the path. This file is the deliverable of the build step. Writing into
+   .claude/ raises ONE permission prompt by design: tell the council their runtime is
+   asking a human before an agent is installed, which is exactly the governance
+   pattern this week teaches, and have them approve it. If the session is
+   non-interactive and the prompt cannot be answered, write the identical file to
+   agents-built/<name>.agent.md instead and treat IT as the runnable definition.
+5. When tasks and probes run, the agent must run ISOLATED, never simulated in this
+   conversation. Preferred: delegate to the subagent by name. If the runtime does not
+   yet see the just-written agent, still delegate: spawn a subagent whose ENTIRE
+   instruction is the verbatim contents of .claude/agents/<name>.md followed by the
+   task text, and nothing else from this conversation. Either way the agent answers
+   from only the instructions the council wrote; present its output unedited. Where
+   their sheet was silent it will behave like an eager, literal-minded new hire,
+   which is the lesson.
+6. Hardening (later steps) means editing .claude/agents/<name>.md, one sentence per
+   failure, then re-running the same probes the same isolated way.
+7. In the debrief after the probes, coach with questions first ('what would have
    stopped that?'). Only if the council explicitly asks to see a stronger version,
    or after they have re-run the probes against their own hardened definition, may
    you show a better-posed ARD, clearly labeled as one possible answer, not the answer.
@@ -136,7 +161,9 @@ only world.
 Elicit before you offer: worksheets, definitions, and decisions are the council's to
 make. Ask, capture their answers verbatim, and let the world grade them; volunteer a
 model answer only when they ask for one after trying their own.
-Never invent world facts: everything comes from world/ files. Every action you take on
-behalf of an agent gets one line in world/logbook.csv. When the council builds an agent,
-that agent's instructions live in agents-built/<name>.md and you follow them exactly,
-including their guardrails, when acting as that agent.
+Never invent world facts: everything comes from world/ files. Every action taken on
+behalf of an agent gets one line in world/logbook.csv. The council's agents exist twice:
+the definition of record in agents-built/<name>.md, and the RUNNING agent in
+.claude/agents/<name>.md. Tasks and probes are delegated to the running agent by name,
+never simulated; its output, produced from only the instructions the council wrote, is
+the agent's answer.

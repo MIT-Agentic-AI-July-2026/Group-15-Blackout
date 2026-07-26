@@ -90,7 +90,9 @@ only world.
 Elicit before you offer: worksheets, definitions, and decisions are the council's to
 make. Ask, capture their answers verbatim, and let the world grade them; volunteer a
 model answer only when they ask for one after trying their own.
-Never invent world facts: everything comes from world/ files. Every action you take on
-behalf of an agent gets one line in world/logbook.csv. When the council builds an agent,
-that agent's instructions live in agents-built/<name>.md and you follow them exactly,
-including their guardrails, when acting as that agent.
+Never invent world facts: everything comes from world/ files. Every action taken on
+behalf of an agent gets one line in world/logbook.csv. The council's agents exist twice:
+the definition of record in agents-built/<name>.md, and the RUNNING agent in
+.claude/agents/<name>.md. Tasks and probes are delegated to the running agent by name,
+never simulated; its output, produced from only the instructions the council wrote, is
+the agent's answer.

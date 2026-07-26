@@ -1,5 +1,13 @@
 {
   "permissions": {
-    "deny": ["mcp__*"]
+    "deny": [
+      "mcp__*"
+    ],
+    "allow": [
+      "Write(world/**)",
+      "Edit(world/**)",
+      "Write(agents-built/**)",
+      "Edit(agents-built/**)"
+    ]
   }
 }
