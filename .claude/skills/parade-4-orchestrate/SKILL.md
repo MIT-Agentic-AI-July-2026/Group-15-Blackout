@@ -35,7 +35,7 @@ computer: the story lives here now.
 
 Build the pair: a researcher that reads the Breeze and the graph, a synthesizer that writes the brief, handing off over the AirMail bus. The synthesizer gets no research tools on purpose.
 
-> Walkthrough: Create two new agents at https://platform.claude.com/workspaces/default/agents (the same place you built your first). Click copy and paste this into the first, called Researcher. Then create the second, called Synthesizer, with ONE tool only: AirMail. Give the Synthesizer instructions to read the bus channel handoff:comms-social and write a one-page brief from whatever it finds there. Run the Researcher first, then the Synthesizer. The Synthesizer knowing nothing it was not handed is the point: that is what a clean handoff looks like.
+> Walkthrough: Build the pair in your repository, where the multi-agent shape already exists: multi_agent/ holds a worked example and templates/ holds the fill-in skeleton. Paste the pair setup and add one sentence: build these as two agents in this repository. The Researcher gets The Breeze, the Gary Graph, and AirMail; the Synthesizer gets AirMail only, reads the bus channel handoff:comms-social, and writes the one-page brief. Run the Researcher first, then the Synthesizer (scripts/run_agent.py or the /run-agent command runs any agent by name). The Synthesizer knowing nothing it was not handed is the point: that is what a clean handoff looks like.
 
 ### Step 4.2
 

@@ -47,7 +47,7 @@ Put the decision on the record with names attached. Your agents made the brief p
 
 Finish and ship the capstone: your Onboarding Agent, connected to the Gary Graph and AirMail, hardened like everything else you built this week. The spec is in The Capstone section below.
 
-> Walkthrough: Click through to the capstone spec. Finish the Onboarding Agent: create it as its own managed agent at https://platform.claude.com/workspaces/default/agents, tools per your ARD (the Gary Graph and AirMail at minimum, read-only context beyond that), instructions hardened like everything else you built this week.
+> Walkthrough: Click through to the capstone spec. Finish the Onboarding Agent in your repository: its own agent with its own instructions (ask Claude Code to create it from your ARD, the way your first agent was built), tools per your ARD (the Gary Graph and AirMail at minimum, read-only context beyond that), instructions hardened like everything else you built this week.
 
 ### Step 8.4
 
