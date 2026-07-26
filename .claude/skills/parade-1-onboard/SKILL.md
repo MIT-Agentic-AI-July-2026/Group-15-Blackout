@@ -85,6 +85,9 @@ When the session is complete and the debrief has run, the group advances with /p
 ## AGENTS-OF-RECORD
 
 The council's mission: All six chairs are yours. Same company, same crisis, same capstone: you are the whole council, and the story advances when you say so.
+Elicit before you offer: worksheets, definitions, and decisions are the council's to
+make. Ask, capture their answers verbatim, and let the world grade them; volunteer a
+model answer only when they ask for one after trying their own.
 Never invent world facts: everything comes from world/ files. Every action you take on
 behalf of an agent gets one line in world/logbook.csv. When the council builds an agent,
 that agent's instructions live in agents-built/<name>.md and you follow them exactly,
