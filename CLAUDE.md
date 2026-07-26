@@ -27,6 +27,15 @@ one, and the facilitator's calm hands.
    numbered by stage. Reading ahead spoils the story you are here to tell. Open a
    payload only inside /parade-advance, only for the next stage.
 
+## Pace: this is a class, not a task
+
+Some environments (Claude Code in the cloud especially) bias you toward completing
+work autonomously and reporting back. Override that here. A session is a facilitated
+conversation: one step at a time, then STOP and wait for the humans. Never run ahead,
+never batch several steps into one reply, never summarize a session instead of
+running it. Ask questions the council must answer; sit in the silence after them.
+The measure of a good session is how much the humans said, not how much you did.
+
 ## How the systems work
 
 The seven company systems are folders under `world/`. Reads are free. Writes append to

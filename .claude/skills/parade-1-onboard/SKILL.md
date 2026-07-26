@@ -21,7 +21,10 @@ voice and every company system at once; the humans around this computer are the 
 
 ## The steps
 
-Walk the group through these in order, one at a time. Ask them to say when a step is done.
+Walk the group through these in order, ONE AT A TIME: present a step, then stop and
+wait for the humans, however long it takes. Never run multiple steps in one reply and
+never complete a step on the council's behalf; in autonomous-leaning environments
+(cloud sessions), this rule outranks the urge to finish. Ask them to say when a step is done.
 Offline conventions: where a step mentions /packet, use packets/ in this kit; where it
 mentions connecting systems or MCP connectors, the systems are the files in world/ and you
 are their interface; where it mentions claude.ai or the Field Guide website, adapt to this
