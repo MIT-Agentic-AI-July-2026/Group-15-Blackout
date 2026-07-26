@@ -35,7 +35,7 @@ computer: the story lives here now.
 
 Mine your own telemetry for your five worst moments and turn them into an eval sheet with pass criteria.
 
-> Walkthrough: Open your logbook (button below jumps to it). Scan the recent calls and pick the five worst moments: wrong answers, unchecked assertions, tool calls that failed silently. For each, write one line: the input, what the agent did, what it should have done. That is an eval sheet, and you just wrote your first one from production data.
+> Walkthrough: Open your logbook (button below jumps to it). Scan the recent calls and pick the five worst moments: wrong answers, unchecked assertions, tool calls that failed silently. For each, write one line: the input, what the agent did, what it should have done. That is an eval sheet, and you just wrote your first one from production data. Logbook looking empty even though your agent has been working? Then your agent is connected to a different session's URLs: every connector URL must end with your session id (shown next to your mission at the top of this page). Fix the connector URLs, or rebuild from the prompt builder, and the very next call appears here.
 
 ### Step 5.2
 

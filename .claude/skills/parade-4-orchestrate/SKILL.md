@@ -41,7 +41,7 @@ Build the pair: a researcher that reads the Breeze and the graph, a synthesizer 
 
 Wire your department agents into the handoff channels and run one cross-team flow end to end.
 
-> Walkthrough: Click copy and paste to your department agent. It will post what your department knows to the right handoff channel on the bus. Then ask any other agent of yours to read that channel and act on it. You just ran a cross-department flow with no meeting.
+> Walkthrough: Click copy and paste to your department agent. It will post what your department knows to the right handoff channel on the bus. Then ask any other agent of yours to read that channel and act on it. You just ran a cross-department flow with no meeting. In the repository, /run-agent runs any agent by name, so the flow is: run the sender with the handoff prompt, then run the receiver and ask it to read the channel.
 
 ### Step 4.3
 

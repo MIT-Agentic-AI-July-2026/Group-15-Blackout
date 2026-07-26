@@ -41,7 +41,7 @@ Breathe. Then quantify before you act: the exposure calculators are in Balloon P
 
 Containment is a coordination problem, not a heroism problem: the levers live in more than one team's systems. Use the incident channel on the bus.
 
-> Walkthrough: Click copy and paste. Your department's view goes to the incident channel; the levers you hold are named. Then read the channel: containment is a coordination problem, and the bus is where your agents coordinate. If you run multiple agents, this is their finest hour.
+> Walkthrough: Click copy and paste. Your department's view goes to the incident channel; the levers you hold are named. Then read the channel: containment is a coordination problem, and the bus is where your agents coordinate. If you run multiple agents, this is their finest hour. Running managed agents: each agent acts when you open a session with it, so paste this into a session with the agent whose view you need; the bus carries it to the rest of your mesh.
 
 ### Step 7.3
 

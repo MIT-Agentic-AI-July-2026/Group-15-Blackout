@@ -41,7 +41,7 @@ Assemble the go/no-go brief for the parade: the forecast against the contract's 
 
 Put the decision on the record with names attached. Your agents made the brief perfect so that a human could make the call accountable.
 
-> Walkthrough: Make the call: go, no-go, or modified launch. Then click copy and paste to post it to the decisions channel with named humans attached. The moment it posts, the decision is on the record, which is the difference between a decision and an opinion.
+> Walkthrough: Make the call: go, no-go, or modified launch. Then click copy and paste to post it to the decisions channel with named humans attached. The moment it posts, the decision is on the record, which is the difference between a decision and an opinion. On managed agents, paste it into a session with any of your agents that holds AirMail; the post lands on the bus either way.
 
 ### Step 8.3
 
