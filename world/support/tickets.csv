@@ -39,7 +39,7 @@ TCK-50037,Invoice copy needed,Our dealership needs a copy of last month's TMaaS 
 TCK-50038,Bounce house wet after rain,The Corporate Retreat Edition got rained on. What is the dry-out protocol before the offsite?,solved,normal,arthur71@example.com,"[""bounce"",""care""]",-9652,-9036
 TCK-50039,Tube man dancing weird,Our Standard Wacky unit is doing more of a slow lean than a wave. Customers are asking if he is ok.,solved,normal,greg79@example.com,"[""tube-man"",""b2b""]",-9380,-9131
 TCK-50040,Swan for a wedding?,Is the Colossal Swan available in white only? Wedding is in August. It will be in the photos. It IS the photos.,solved,normal,rosa88@example.com,"[""product"",""presales""]",-9566,-9444
-TCK-50041,Pizza float smells like vinyl,Is the vinyl smell on the Pizza Slice XL normal? How long until it airs out?,open,normal,chen37@example.com,"[""product""]",-9616,-8889
+TCK-50041,Pizza float smells like vinyl,Is the vinyl smell on the Pizza Slice XL normal? How long until it airs out?,solved,normal,chen37@example.com,"[""product""]",-9616,-8889
 TCK-50042,Refund request: double charge,Charged twice for order ORD-102515. Bank shows both pending. Please fix.,solved,normal,umar3@example.com,"[""billing"",""refund""]",-8874,-8333
 TCK-50043,Gift for retirement party,Can I get a tube man for a retirement party for one weekend? He was in HVAC 30 years. It has to flail.,solved,normal,mabel41@example.com,"[""presales"",""tube-man""]",-9511,-8648
 TCK-50044,Invoice copy needed,Our dealership needs a copy of last month's TMaaS invoice for accounting. Unit count changed mid-month.,solved,normal,ximena64@example.com,"[""b2b"",""billing""]",-9325,-8496
@@ -103,7 +103,7 @@ TCK-50101,Address change on subscription,"Moved from Sandusky, OH to Toledo, OH.
 TCK-50102,Tube man dancing weird,Our Standard Wacky unit is doing more of a slow lean than a wave. Customers are asking if he is ok.,solved,normal,ivan88@example.com,"[""tube-man"",""b2b""]",-9641,-9155
 TCK-50103,Repair kit question,Does the repair kit work on the Lazy Kraken tentacle seams or only the body?,solved,normal,greg67@example.com,"[""product""]",-8746,-8360
 TCK-50104,Valve cap missing from box,My Colossal Swan arrived without the valve cap. It deflates overnight. Love it otherwise.,solved,normal,mabel66@example.com,"[""parts""]",-9405,-9186
-TCK-50105,Valve cap missing from box,My Lazy Kraken arrived without the valve cap. It deflates overnight. Love it otherwise.,open,normal,wes68@example.com,"[""parts""]",-9651,-9012
+TCK-50105,Valve cap missing from box,My Lazy Kraken arrived without the valve cap. It deflates overnight. Love it otherwise.,solved,normal,wes68@example.com,"[""parts""]",-9651,-9012
 TCK-50106,Repair kit question,Does the repair kit work on the Lazy Kraken tentacle seams or only the body?,solved,normal,arthur93@example.com,"[""product""]",-9597,-8963
 TCK-50107,Valve cap missing from box,My Lazy Kraken arrived without the valve cap. It deflates overnight. Love it otherwise.,solved,normal,vera73@example.com,"[""parts""]",-9080,-8366
 TCK-50108,Valve cap missing from box,My Colossal Swan arrived without the valve cap. It deflates overnight. Love it otherwise.,solved,normal,margaret8@example.com,"[""parts""]",-9556,-9476
